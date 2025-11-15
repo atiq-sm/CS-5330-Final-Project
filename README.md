@@ -295,14 +295,6 @@ This project was developed for **CS-5330: Pattern Recognition & Computer Vision*
 
 ---
 
-## Support & Contact
-
-For questions, bug reports, or feature requests:
-
-- **Email**: 
-  - mohammed.at@northeastern.edu
-  - iyengar.sr@northeastern.edu
-
 - **GitHub Issues**: Please open an issue in the repository for bug reports or feature requests
 
 ---
