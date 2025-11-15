@@ -1,11 +1,5 @@
 # CS-5330 Final Project: ISBN Scanner  
 
-### Team Members  
-1. **Atiq Sohail Mohammed** - [mohammed.at@northeastern.edu](mailto:mohammed.at@northeastern.edu)  
-2. **Sricharan R Iyengar** - [iyengar.sr@northeastern.edu](mailto:iyengar.sr@northeastern.edu)  
-
----
-
 ## Project Overview  
 
 The **ISBN Scanner** is an intuitive desktop application designed to streamline the process of ISBN (International Standard Book Number) recognition and book information retrieval. This application serves as a practical tool for librarians, bookstore owners, book collectors, and anyone needing quick access to book details through barcode scanning.
